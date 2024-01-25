@@ -1,3 +1,16 @@
+Can access with any of the following credentials:
+
+username:henry
+password:henry_the_developer
+
+username:david
+password:the_miller@23
+
+username:robert
+password:WilsonRobert45
+
+
+
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
 ### Refer to the video below:
